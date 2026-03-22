@@ -1,0 +1,13 @@
+com\tmt\pojo\Comment.class
+com\tmt\pojo\Tag.class
+com\tmt\pojo\Product.class
+com\mycompany\hibernatedemo\HibernateDemo.class
+com\tmt\repositories\impl\CategoryRepositoryImpl.class
+com\tmt\pojo\SaleOrder.class
+com\mycompany\hibernatedemo\HibernateUtils.class
+com\tmt\pojo\Category.class
+com\tmt\repositories\impl\ProductRepositoryImpl.class
+com\tmt\repositories\impl\StatsRepositoryImpl.class
+com\tmt\pojo\User.class
+com\tmt\pojo\OrderDetail.class
+com\tmt\pojo\ProdTag.class
